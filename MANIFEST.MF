@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Erica
+Main-Class: Calculadora
+X-COMMENT: Interfaz Grafica
+
+
+
